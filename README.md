@@ -2,29 +2,25 @@
  
 <h2>프론트엔드: 라이브러리</h2>
 <ul>
- <li>
-  <b>React</b>
-  <b>cross-env:</b> 리엑트를 시작할 때, BROWSER 환경변수를 none으로 설정하여 리엑트 화면이 자동으로 브라우저에 실행되는 것을 방지합니다.
-  <b>axios:</b> 백엔드나 다른 도메인과 통신하기 위해 사용됩니다.
-  <b>react-router-dom:</b> URL 뒤에 있는 문자열에 따라 다른 컴포넌트를 새로고침 없이 로드합니다.
-  <b>react-redux</b>
-  <b>@reduxjs/toolkit(React Redux ToolKit)</b> 
- </li>
+ <li><b>React</b></li>
+ <li><b>cross-env:</b> 리엑트를 시작할 때, BROWSER 환경변수를 none으로 설정하여 리엑트 화면이 자동으로 브라우저에 실행되는 것을 방지합니다.</li>
+ <li><b>axios:</b> 백엔드나 다른 도메인과 통신하기 위해 사용됩니다.</li>
+ <li><b>react-router-dom:</b> URL 뒤에 있는 문자열에 따라 다른 컴포넌트를 새로고침 없이 로드합니다.</li>
+ <li><b>react-redux</b></li>
+ <li><b>@reduxjs/toolkit(React Redux ToolKit)</b></li>
 </ul>
 
 <hr />
 
 <h2>백엔드: 라이브러리</h2>
 <ul>
- <li>
-  <b>express</b>
-  <b>jsonwebtoken:</b> JWT를 사용하기 위해 사용됩니다.
-  <b>crypto-js: </b> 데이터를 암호화하는 기능이 있는 라이브러리입니다. (DB에 비밀번호를 저장하는 등의 작업에서 사용됨)
-  <b>dotenv: </b> .env 파일에 변수를 대입하는 것 처럼 환경변수를 작성할 수 있습니다.
-  <b>mysql2: </b> 데이터베이스와 연동하기 위해 사용합니다.
-  <b>nodemon: </b> src 폴더 안에 있는 .ts 폴더의 내용이 변경되면 자동으로 서버를 재시작합니다.
-  <b>ts-node: </b> .ts 파일을 일반적인 node 명령 처럼 실행되게 합니다.
- </li>
+ <li><b>express</b></li>
+ <li><b>jsonwebtoken:</b> JWT를 사용하기 위해 사용됩니다.</li>
+ <li><b>crypto-js: </b> 데이터를 암호화하는 기능이 있는 라이브러리입니다. (DB에 비밀번호를 저장하는 등의 작업에서 사용됨)</li>
+ <li><b>dotenv: </b> .env 파일에 변수를 대입하는 것 처럼 환경변수를 작성할 수 있습니다.</li>
+ <li><b>mysql2: </b> 데이터베이스와 연동하기 위해 사용합니다.</li>
+ <li><b>nodemon: </b> src 폴더 안에 있는 .ts 폴더의 내용이 변경되면 자동으로 서버를 재시작합니다.</li>
+ <li><b>ts-node: </b> .ts 파일을 일반적인 node 명령 처럼 실행되게 합니다.</li>
 </ul>
 
 <hr />
