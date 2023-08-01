@@ -1,5 +1,28 @@
 # typescript-react-express-quick-start
- 
+
+<h2>사용법</h2>
+<pre>
+ git clone https://github.com/hyunsolcomment/typescript-react-express-quick-start
+</pre>
+위 명령을 통해 repo를 clone한 뒤
+
+<pre>
+ cd typescript-react-express-quick-start
+</pre>
+위 명령을 통해(혹은 다른 방식으로) clone된 폴더로 이동한 후
+
+<pre>
+ npm install
+</pre>
+위 명령을 통해 프로젝트 최상위 폴더에서 라이브러리를 설치합니다.
+
+<pre>
+ npm run project-install
+</pre>
+위 명령을 통해 프론트엔드, 백엔드의 라이브러리를 설치합니다.
+
+<hr />
+
 <h2>프론트엔드: 라이브러리</h2>
 <ul>
  <li><b>React</b></li>
